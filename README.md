@@ -9,6 +9,6 @@ https://uofc-my.sharepoint.com/:p:/g/personal/joshua_smith2_ucalgary_ca/EQVhOAG3
 https://blog.det.life/build-an-etl-data-pipeline-using-python-139c6875b046
 
 ## Link to dataset
-https://www.kaggle.com/datasets/patelris/crop-yield-prediction-dataset
+https://www.kaggle.com/datasets/unitednations/global-food-agriculture-statistics
 - Download the file and use the yield_df.csv for this demo
 
