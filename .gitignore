@@ -2,3 +2,4 @@
 /.idea
 *.log
 fao_data_crops_data.csv
+*.pyc
